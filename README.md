@@ -1,0 +1,1 @@
+# Scalable-Vision-Transformer-Using-Stratified-Pooling
